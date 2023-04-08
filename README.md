@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&height=40&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++I'm+Web+Front-end+Developer)](https://git.io/typing-svg)
 
-[Summer Wind's Blog](http://blog.bilent.top/)
+[Blog](https://lixiaoming.notion.site/s-Blogs-8f3d8cfc18914f628c6e76aad87ac4d1)
 
 💪 learning:
 
