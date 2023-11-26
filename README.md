@@ -1,16 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&height=40&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++I'm+Web+Front-end+Developer)](https://git.io/typing-svg)
-
-[Blog](https://lixiaoming.notion.site/s-Blogs-8f3d8cfc18914f628c6e76aad87ac4d1)
+<!-- [Blog](https://lixiaoming.notion.site/s-Blogs-8f3d8cfc18914f628c6e76aad87ac4d1) -->
 
 💪 learning:
 
-- Nest.js
+- Electron
+- MySQL
 - ...
 
 🧠 planing:
 
-- Sugar Mind
-- Think
+- Electron RPA
+- Chat-GPT
+- ...
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&height=40&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++I'm+Web+Front-end+Developer)](https://git.io/typing-svg)
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -27,4 +29,4 @@
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=code-lixm&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=code-lixm&show_icons=true) -->
